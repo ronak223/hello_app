@@ -7,4 +7,8 @@ def hello
 	render text: "hello, world!"
 end
 
+def goodbye
+	render text: "goodbye, cruel world :("
+end
+
 end
